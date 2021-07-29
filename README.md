@@ -7,4 +7,4 @@ Catatan : tes e2e 2x yaa pasti bakalan berhasil yang ke-2
 
 BY: Luha987
 
-Github Data : https://github.com/luha987/restoLand-luha987
+Github Data : https://github.com/luha987/luha-resto
